@@ -132,27 +132,6 @@
 },
 {
   "type": "node",
-  "id": 5555169889,
-  "lat": 49.2064851,
-  "lon": 16.6756655,
-  "tags": {
-    "addr:city": "Brno - Líšeň",
-    "addr:housenumber": "2407/7",
-    "addr:postcode": "62800",
-    "addr:street": "Masarova",
-    "email": "zdravejkramek@seznam.cz",
-    "name": "Byjo - Zdravej krámek",
-    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
-    "operator": "Byjo - Zdravej krámek",
-    "payment:cards": "yes",
-    "payment:cash": "yes",
-    "phone": "+420 607 771 179",
-    "shop": "health_food",
-    "website": "https://www.byjozdravejkramek.cz/"
-  }
-},
-{
-  "type": "node",
   "id": 5595684930,
   "lat": 49.5035251,
   "lon": 16.5072230,
