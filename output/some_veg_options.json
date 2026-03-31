@@ -1392,8 +1392,10 @@
         "cuisine": "curry;indian",
         "diet:vegetarian": "yes",
         "email": "royalnepalbrno2022@gmail.com",
+        "indoor_seating": "yes",
         "name": "Royal Nepal",
         "opening_hours": "Mo-Fr 10:30-21:30; Su 11:30-21:00; Sa off",
+        "outdoor_seating": "no",
         "phone": "+420 773 782 075",
         "website": "https://www.royalnepal.cz/",
         "wheelchair": "no"
@@ -1710,7 +1712,7 @@
       "lon": 16.6095819,
       "tags": {
         "amenity": "cafe",
-        "check_date": "2023-02-05",
+        "check_date": "2026-03-30",
         "check_date:opening_hours": "2020-12-14",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
