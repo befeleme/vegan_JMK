@@ -243,19 +243,6 @@
 },
 {
   "type": "node",
-  "id": 7847668106,
-  "lat": 49.1985015,
-  "lon": 16.5945561,
-  "tags": {
-    "name": "Zdravá výživa",
-    "opening_hours": "Mo-Fr 10:00-12:30,13:00-18:00",
-    "shop": "health_food",
-    "website": "https://zdravavyziva-udolni.cz/",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 7988202820,
   "lat": 49.1876424,
   "lon": 16.6429617,
