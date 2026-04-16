@@ -76,22 +76,6 @@
 },
 {
   "type": "node",
-  "id": 3505188494,
-  "lat": 49.1984114,
-  "lon": 16.6014093,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "8",
-    "addr:postcode": "60200",
-    "addr:street": "Jaselská",
-    "check_date:opening_hours": "2021-09-18",
-    "name": "Zlatý Klíček",
-    "shop": "health_food",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 3719886343,
   "lat": 49.1890917,
   "lon": 16.5941707,
