@@ -2984,29 +2984,6 @@
     },
     {
       "type": "node",
-      "id": 4823302943,
-      "lat": 49.1949771,
-      "lon": 16.6101448,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "3",
-        "addr:postcode": "60200",
-        "addr:street": "Poštovská",
-        "air_conditioning": "yes",
-        "amenity": "pub",
-        "brewery": "various",
-        "diet:vegetarian": "yes",
-        "food": "yes",
-        "indoor_seating": "yes",
-        "name": "Axiom Pub",
-        "opening_hours": "Mo,Tu 17:00-24:00, We,Th 17:00-01:00, Fr 17:00-02:00, Sa 15:00-02:00, Su 14:00-22:00",
-        "outdoor_seating": "pedestrian_zone",
-        "smoking": "no",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
       "id": 4928156502,
       "lat": 49.2102503,
       "lon": 16.5975598,
