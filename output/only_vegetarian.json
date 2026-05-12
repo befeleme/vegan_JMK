@@ -63,7 +63,7 @@
         "opening_hours": "Mo-Fr 10:00-15:00",
         "payment:credit_cards": "no",
         "payment:debit_cards": "no",
-        "website": "http://www.bio-restaurace.cz/",
+        "website": "https://www.bio-restaurace.cz/",
         "wheelchair": "no"
       }
     },
@@ -91,7 +91,7 @@
         "payment:visa_debit": "yes",
         "payment:visa_electron": "yes",
         "ref:ruian:addr": "10985522",
-        "website": "http://www.navecnosti.cz/"
+        "website": "https://www.navecnosti.cz/"
       }
     },
     {

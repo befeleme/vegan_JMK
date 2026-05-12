@@ -100,7 +100,7 @@
         "payment:lightning:requires_companion_app": "yes",
         "phone": "+420 720 113 502",
         "source:addr": "cuzk:ruian",
-        "website": "http://www.bistrofranz.cz/",
+        "website": "https://www.bistrofranz.cz/",
         "wheelchair": "no"
       }
     },
@@ -1205,7 +1205,7 @@
         "opening_hours": "Mo-Fr 11:00-21:00; Sa 12:00-21:00; Su off",
         "outdoor_seating": "patio",
         "phone": "+420 545 428 310",
-        "website": "http://www.amphone.eu/restaurace",
+        "website": "https://www.amphone.eu/restaurace",
         "wheelchair": "yes"
       }
     },
@@ -2392,7 +2392,7 @@
         "opening_hours": "Mo-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su off",
         "phone": "+420 702 018 730",
         "takeaway": "no",
-        "website": "http://www.statlbrno.cz/",
+        "website": "https://www.statlbrno.cz/",
         "wheelchair": "yes"
       }
     },
@@ -3148,7 +3148,7 @@
         "ref:ruian:addr": "19094108",
         "reservation": "yes",
         "source:addr": "cuzk:ruian",
-        "website": "http://www.atelierbar.cz/",
+        "website": "https://www.atelierbar.cz/",
         "wheelchair": "yes"
       }
     },
