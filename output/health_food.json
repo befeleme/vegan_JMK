@@ -572,6 +572,19 @@
   }
 },
 {
+  "type": "node",
+  "id": 13927013546,
+  "lat": 48.9958699,
+  "lon": 16.8574744,
+  "tags": {
+    "mobile": "+420 774 122 944",
+    "name": "Naturspirit",
+    "opening_hours": "Mo-Fr 08:30-17:00; Sa 08:30-11:00; Su 14:00-17:00",
+    "shop": "health_food",
+    "wheelchair": "no"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "bounds": {
