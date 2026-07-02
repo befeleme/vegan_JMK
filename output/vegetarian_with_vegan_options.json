@@ -194,12 +194,15 @@
         "check_date": "2026-03-27",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
+        "email": "dhaba@beas-dhaba.cz",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Dhaba Beas",
         "opening_hours": "Mo-Fr 11:00-21:00; Sa,Su 11:00-20:00",
         "outdoor_seating": "yes",
+        "phone": "+420 777 165 584",
         "website": "https://dhababeas.cz/",
+        "website:menu": "https://dhababeas.cz",
         "wheelchair": "limited"
       }
     },
