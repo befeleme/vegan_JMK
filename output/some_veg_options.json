@@ -27,6 +27,68 @@
       }
     },
     {
+      "type": "way",
+      "id": 1365062660,
+      "bounds": {
+        "minlat": 49.175941,
+        "minlon": 16.565993,
+        "maxlat": 49.1760543,
+        "maxlon": 16.5661052
+      },
+      "nodes": [
+        4954535366,
+        12641358485,
+        12641358486,
+        12641358487,
+        4954535366
+      ],
+      "geometry": [
+        {
+          "lat": 49.1759458,
+          "lon": 16.565993
+        },
+        {
+          "lat": 49.175941,
+          "lon": 16.5660935
+        },
+        {
+          "lat": 49.1760492,
+          "lon": 16.5661052
+        },
+        {
+          "lat": 49.1760543,
+          "lon": 16.5660026
+        },
+        {
+          "lat": 49.1759458,
+          "lon": 16.565993
+        }
+      ],
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "770",
+        "addr:postcode": "625 00",
+        "addr:street": "Netroufalky",
+        "amenity": "fast_food",
+        "check_date": "2026-07-22",
+        "cuisine": "korean;vietnamese;asian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "email": "info@hanfood.cz",
+        "image": "https://www.campusbrno.cz/files/2025/01/51e95d4092286057e8bc41f89f3d9ab8.jpg",
+        "indoor": "room",
+        "level": "1",
+        "name": "Han Food",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "phone": "+420 773 731 951",
+        "room": "restaurant",
+        "website": "https://hanfood.cz/han-food-brno/"
+      }
+    },
+    {
       "type": "node",
       "id": 1371469308,
       "lat": 49.206219,
@@ -46,27 +108,6 @@
         "payment:qerko": "yes",
         "website": "https://zobrno.cz/",
         "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1486367772,
-      "lat": 49.1975991,
-      "lon": 16.6049926,
-      "tags": {
-        "amenity": "cafe",
-        "changing_table": "no",
-        "check_date:opening_hours": "2025-02-26",
-        "diet:vegan": "yes",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "no",
-        "internet_access": "no",
-        "name": "Kofi Kofi",
-        "opening_hours": "Mo-Fr 06:00-20:30; Sa 09:00-17:00",
-        "outdoor_seating": "no",
-        "takeaway": "only",
-        "website": "https://www.kofikofi.cz/",
-        "wheelchair": "yes"
       }
     },
     {
@@ -692,6 +733,7 @@
         "description": "Vege Bio lokal",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "live_music": "yes",
         "name": "Ponava",
@@ -1020,6 +1062,22 @@
         "payment:debit_cards": "yes",
         "smoking": "no",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14039788086,
+      "lat": 49.1919001,
+      "lon": 16.6127641,
+      "tags": {
+        "addr:floor": "0",
+        "check_date": "2026-07-22",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Asian Land Food House",
+        "shop": "supermarket",
+        "wheelchair": "no"
       }
     }
   ]
