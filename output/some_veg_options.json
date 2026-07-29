@@ -880,27 +880,6 @@
     },
     {
       "type": "node",
-      "id": 6147610135,
-      "lat": 49.1888573,
-      "lon": 16.5986287,
-      "tags": {
-        "addr:housenumber": "226/2",
-        "addr:street": "Václavská",
-        "amenity": "cafe",
-        "delivery": "no",
-        "diet:vegan": "yes",
-        "diet:vegetarian": "yes",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Ad Alta",
-        "name:cs": "Kavárna Ad Alta",
-        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00",
-        "smoking": "no",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
       "id": 6353879659,
       "lat": 49.2090114,
       "lon": 16.6038245,
