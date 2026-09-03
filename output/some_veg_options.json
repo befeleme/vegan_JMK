@@ -840,6 +840,30 @@
     },
     {
       "type": "node",
+      "id": 5387382568,
+      "lat": 49.194816,
+      "lon": 16.609472,
+      "tags": {
+        "addr:housenumber": "702/9",
+        "addr:street": "náměstí Svobody",
+        "check_date": "2026-09-02",
+        "contact:facebook": "https://www.facebook.com/zdravischuti",
+        "contact:instagram": "https://www.instagram.com/zdravischuti/",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "level": "1",
+        "name": "Zdraví s chutí",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 09:00-18:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "health_food",
+        "website": "https://zdravischuti.cz/"
+      }
+    },
+    {
+      "type": "node",
       "id": 5645366621,
       "lat": 49.1909223,
       "lon": 16.6100787,
