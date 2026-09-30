@@ -72,6 +72,7 @@
         "addr:housenumber": "770",
         "addr:postcode": "625 00",
         "addr:street": "Netroufalky",
+        "air_conditioning": "yes",
         "amenity": "fast_food",
         "check_date": "2026-07-22",
         "cuisine": "korean;vietnamese;asian",
@@ -86,6 +87,8 @@
         "opening_hours": "Mo-Su 10:00-20:00",
         "payment:cash": "yes",
         "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "phone": "+420 773 731 951",
         "room": "restaurant",
         "website": "https://hanfood.cz/han-food-brno/"
