@@ -594,6 +594,28 @@
     },
     {
       "type": "node",
+      "id": 3861079110,
+      "lat": 49.1937557,
+      "lon": 16.6094075,
+      "tags": {
+        "amenity": "fast_food",
+        "brand:wikidata": "Q136204013",
+        "check_date:opening_hours": "2026-04-12",
+        "cuisine": "pizza;crepe;friture",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Poe-Poe",
+        "opening_hours": "Su 11:00-20:00; Mo-Sa 10:00-22:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+420 777 185 455",
+        "website": "https://www.poe-poe.cz/"
+      }
+    },
+    {
+      "type": "node",
       "id": 3902367959,
       "lat": 49.1963819,
       "lon": 16.6062411,
