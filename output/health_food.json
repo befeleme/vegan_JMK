@@ -148,17 +148,6 @@
 },
 {
   "type": "node",
-  "id": 6434023771,
-  "lat": 49.2341208,
-  "lon": 16.6256351,
-  "tags": {
-    "name": "Zdravé potraviny",
-    "opening_hours": "Sa 08:30-12:00; Mo-Fr 07:30-18:00; Su,PH off",
-    "shop": "health_food"
-  }
-},
-{
-  "type": "node",
   "id": 7295308520,
   "lat": 49.4103980,
   "lon": 16.6397047,
