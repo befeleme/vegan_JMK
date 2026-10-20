@@ -94,6 +94,23 @@
 },
 {
   "type": "node",
+  "id": 4114942196,
+  "lat": 49.2100345,
+  "lon": 16.5875922,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "127",
+    "addr:postcode": "61600",
+    "addr:street": "Veveří",
+    "name": "Pestře",
+    "opening_hours": "Mo-Fr 09:30-18:00",
+    "shop": "health_food",
+    "website": "https://www.pestre.cz",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
   "id": 5387382568,
   "lat": 49.1948160,
   "lon": 16.6094720,
