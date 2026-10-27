@@ -733,6 +733,7 @@
         "payment:visa_debit": "yes",
         "payment:visa_electron": "yes",
         "phone": "+420 607 525 055",
+        "ref:CZ:icp": "1012296121",
         "website": "https://padagali.cz/",
         "wheelchair": "yes"
       }
