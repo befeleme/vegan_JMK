@@ -615,6 +615,19 @@
   }
 },
 {
+  "type": "node",
+  "id": 14357294979,
+  "lat": 49.2103819,
+  "lon": 16.5876942,
+  "tags": {
+    "mobile": "+420 736 129 550",
+    "name": "u Damiány",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "shop": "health_food",
+    "website": "http://udamiany.cz/"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "bounds": {
