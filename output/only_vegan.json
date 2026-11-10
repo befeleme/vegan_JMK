@@ -261,6 +261,23 @@
         "phone": "+420 739 665 746",
         "website": "https://www.myraw.cz/brno"
       }
+    },
+    {
+      "type": "node",
+      "id": 14363397138,
+      "lat": 49.2027087,
+      "lon": 16.6080518,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "indoor_seating": "no",
+        "name": "Good Karma Kitchen",
+        "opening_hours": "Mo-Fr 10:30-14:30",
+        "outdoor_seating": "no",
+        "reservation": "required",
+        "takeaway": "only",
+        "website": "https://goodkarma.cz/menu/"
+      }
     }
   ]
 }
