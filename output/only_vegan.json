@@ -61,6 +61,26 @@
     },
     {
       "type": "node",
+      "id": 3389050476,
+      "lat": 49.2039621,
+      "lon": 16.606277,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "43",
+        "addr:postcode": "60200",
+        "addr:street": "Lidická",
+        "amenity": "fast_food",
+        "check_date": "2026-09-26",
+        "check_date:opening_hours": "2026-09-26",
+        "cuisine": "pizza",
+        "diet:vegan": "only",
+        "mobile": "+420 602 841 608",
+        "name": "Pizza Panzón",
+        "opening_hours": "Tu-Fr 11:00-20:00; Sa 12:00-20:00"
+      }
+    },
+    {
+      "type": "node",
       "id": 3667914024,
       "lat": 48.805281,
       "lon": 16.6348522,
