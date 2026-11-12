@@ -40,6 +40,75 @@
       }
     },
     {
+      "type": "way",
+      "id": 1447579206,
+      "bounds": {
+        "minlat": 49.187574,
+        "minlon": 16.6144249,
+        "maxlat": 49.1876666,
+        "maxlon": 16.6145622
+      },
+      "nodes": [
+        13281900984,
+        13281900983,
+        13281900982,
+        13281900986,
+        13281900987,
+        13281900984
+      ],
+      "geometry": [
+        {
+          "lat": 49.1876637,
+          "lon": 16.6144249
+        },
+        {
+          "lat": 49.187574,
+          "lon": 16.6144546
+        },
+        {
+          "lat": 49.1875852,
+          "lon": 16.6145408
+        },
+        {
+          "lat": 49.1876154,
+          "lon": 16.6145622
+        },
+        {
+          "lat": 49.1876666,
+          "lon": 16.6144458
+        },
+        {
+          "lat": 49.1876637,
+          "lon": 16.6144249
+        }
+      ],
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "462/1",
+        "addr:postcode": "602 00",
+        "addr:street": "Ve Vaňkovce",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "check_date": "2026-11-11",
+        "diet:vegan": "only",
+        "drive_through": "no",
+        "email": "vankovka@forkys.eu",
+        "image": "https://www.forkys.cz/wp-content/uploads/2023/06/DSC_3533.jpg",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Forky's",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 10:00-20:00",
+        "operator": "SIUX GASTRO s.r.o.",
+        "outdoor_seating": "no",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "phone": "+420 704 895 549",
+        "takeaway": "yes",
+        "website": "https://www.forkys.cz/pobocka/oc-vankovka/"
+      }
+    },
+    {
       "type": "node",
       "id": 1528351545,
       "lat": 49.1971969,
@@ -126,21 +195,6 @@
         "toilets:wheelchair": "no",
         "website": "https://www.veganaframen.cz/",
         "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3717239644,
-      "lat": 49.1876106,
-      "lon": 16.6145147,
-      "tags": {
-        "amenity": "fast_food",
-        "diet:vegan": "only",
-        "level": "0",
-        "name": "Forky's",
-        "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 10:00-20:00",
-        "takeaway": "yes",
-        "website": "https://www.forkys.cz/"
       }
     },
     {

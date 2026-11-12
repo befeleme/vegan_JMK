@@ -875,6 +875,22 @@
     },
     {
       "type": "node",
+      "id": 6179213551,
+      "lat": 49.1756595,
+      "lon": 16.5665996,
+      "tags": {
+        "amenity": "canteen",
+        "check_date": "2026-11-11",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Campus bistro",
+        "opening_hours": "Mo-Fr 07:00-15:00",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 6353879659,
       "lat": 49.2090114,
       "lon": 16.6038245,
